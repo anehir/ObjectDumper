@@ -11,6 +11,7 @@ namespace DumpTester
         static void Main(string[] args)
         {
             TestConcurrency();
+            
             TestPerformance();
         }
 
